@@ -1,5 +1,5 @@
 # Customer-segmentation
-I do this project to gain hands-on experience in customers segmentation, RFM analysis and K-Means clustering.  
+I did this project to gain hands-on experience in customers segmentation, RFM analysis and K-Means clustering.  
 
 Customer segmentation is the process of dividing customers into groups based on common characteristics so companies can market to each group effectively and appropriately.
 Segmentation helps a company:
